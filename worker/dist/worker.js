@@ -1,16 +1,16 @@
 	self.props = {
-		title: 'GDIndex',
-		default_root_id: 'root',
-		client_id: '202264815644.apps.googleusercontent.com',
-		client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-		refresh_token: '',
-		service_account: false,
-		service_account_json: {},
-		auth: false,
+		title: 'D4rk',
+		default_root_id: '1aeAJ-nwEz5T6ZqnyzPVv5hATzq9AZ2zH',
+		client_id: '195872435187-se0ersr3l6c0776gvio8mcetqb0t7i76.apps.googleusercontent.com',
+		client_secret: '77kz3KApt-8w2wS2vBsiPkHo',
+		refresh_token: '{"access_token":"ya29.a0AfH6SMCfk2lxZDONTmaZNhE9XkXCgKoxDtonSQkPylRjyejly_N2jrsLCgs5Dgu_xkPx54_ErbLzPNxtFQhIY3sNWFQFBQLpVwCTgwEZMHqbGc9xh7LMkPod6AveDOzWG-t41esbyMfeNHbPm5kGuUBGlaOn","token_type":"Bearer","refresh_token":"1//0g91YnEKr9o1ICgYIARAAGBASNwF-L9Ir_DPfyy6po2Iq44pEuI6FAqxE1wH700irUKdS6y-29qeaDstvy4Kcgv5Eblh4Xio1H2Y","expiry":"2021-04-14T13:54:12.0768953+07:00"}',
+		service_account: true,
+		service_account_json: {"installed":{"client_id":"195872435187-se0ersr3l6c0776gvio8mcetqb0t7i76.apps.googleusercontent.com","project_id":"studied-indexer-294801","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"77kz3KApt-8w2wS2vBsiPkHo","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}},
+		auth: true,
 		user: '',
 		pass: '',
-		upload: false,
-		lite: false
+		upload: true,
+		lite: true
 	};
 (function () {
   'use strict';
